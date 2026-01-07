@@ -1,14 +1,14 @@
 html, body {
-    height: 100%;           /* full height for viewport */
-    margin: 0;              /* remove default margin */
+    height: 100%;        
+    margin: 0;             
   }
   
   .star-container {
-    display: flex;           /* enable flexbox */
-    justify-content: center; /* center horizontally */
-    align-items: center;     /* center vertically */
-    height: 100vh;           /* full viewport height */
-    gap: 10px;               /* space between stars */
+    display: flex;           
+    justify-content: center; 
+    align-items: center;   
+    height: 100vh;          
+    gap: 10px;              
   }
   
   label {
